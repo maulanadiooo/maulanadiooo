@@ -1,4 +1,4 @@
-class Profile {
+```class Profile {
   String name;
   String age;
   String occupation;
@@ -30,4 +30,4 @@ class Profile {
 
 void main() {
   Profile.init();
-}
+}```
