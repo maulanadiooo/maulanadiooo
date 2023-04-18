@@ -1,4 +1,4 @@
-```
+```dart
 class Profile {
   String name;
   String age;
